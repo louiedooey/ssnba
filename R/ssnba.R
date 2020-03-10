@@ -1,11 +1,17 @@
 #' NBA Season Stats
 #'
-#' This function allows you to input the year
+#' This function allows you to input the year and return 3 values 
 #' @param year What year? Defaults to TRUE.
 #' @keywords ``age, team, continuous
 #' @export
 #' @examples
-#' fun1(), fun2(), fun3()
+#' 
+#' @return \code{fun1(y)}
+#' 
+#' @return \code{fun2(y)}
+#' 
+#' @return \code{fun3(y)}
+#' 
 
 # --- FUNCTION 1 ---
 # input - individual year
