@@ -1,13 +1,13 @@
 Package: Seasons.Stats.NBA
-Title: What the Package Does (One Line, Title Case)
+Title: Season Stats NBA
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Louisa",
+           family = "Ong",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "louisa.ong@columbia.edu",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: This package contains three functions.
 License: What license it uses
 Encoding: UTF-8
 LazyData: true
