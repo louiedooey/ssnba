@@ -2,8 +2,7 @@ Package: ssnba
 Title: NBA Season Stats
 Version: 0.0.0.9000
 Authors@R: 
-    person(“Louisa”, “Ong",
-           role = c("aut", "cre"),
+    person(“Louisa”, “Ong",           
            email = “louisa.ong@columbia.edu”,
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: This package contains three functions that 
